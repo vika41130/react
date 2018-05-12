@@ -16,14 +16,6 @@ class Img extends React.Component {
     this.setState({});
   }
 
-  componentDidMount() {
-
-  }
-
-  componentWillUnmount() {
-
-  }
-
   render() {
     return (
       <div>
